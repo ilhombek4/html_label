@@ -1,0 +1,33 @@
+.a{
+    background-color: #C8DAFF;
+    color: darkblue;
+    border: 7px solid red;
+    border-radius: 50px;
+    text-align: center;
+    height: 40px;
+}
+.a h1{
+    margin-top: -1px;
+}
+table{
+    text-align: center;
+}
+td{
+    border: 3px solid burlywood;
+    padding: 0 10px;
+}
+th{
+    border: 3px solid burlywood;
+    padding: 0 10px;
+}
+button{
+    background-color: lawngreen;
+    border: none;
+    width: 200px;
+    height: 30px;
+}
+.c img{
+    width: 49%;
+    height: 350px;
+}
+
